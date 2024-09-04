@@ -22,4 +22,7 @@ method=4
 - `CUSAXXXXX.inprogress` file in the usb drive root indicates Backup is inprogress.
 - `CUSAXXXXX.completed` file in the usb drive root indicates Backup is completed.
 
-
+## Credits to
+- [kmeps4](https://github.com/kmeps4)
+- [Al-Azif](https://github.com/Al-Azif)
+- [Scene Collective](https://github.com/Scene-Collective)
